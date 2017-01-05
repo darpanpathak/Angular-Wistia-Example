@@ -2,7 +2,11 @@
 
 This repository shows, how to upload video files to Wistia site and show them as embedded view once uploaded. 
 
-#Instructions
+
+# Demo
+[https://angular-wistia2017.herokuapp.com](https://angular-wistia2017.herokuapp.com)
+
+# Instructions
 
 + run **"npm install"**
 + run gulp serve 
